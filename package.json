@@ -1,0 +1,8 @@
+{
+  "name": "oss-core",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ossgroupp/oss-core.git",
+  "author": "OSS Group <ossgroup@protonmail.com>",
+  "license": "MIT"
+}
